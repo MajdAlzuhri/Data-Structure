@@ -1,0 +1,5 @@
+﻿  Project-07.cpp
+E:\C++\Level 13\Project-07\Project-07\Project-07.cpp(11,14): error C2512: 'clsMyString': no appropriate default constructor available
+      E:\C++\Level 13\Project-07\Project-07\clsMyString.h(7,7):
+      see declaration of 'clsMyString'
+  
